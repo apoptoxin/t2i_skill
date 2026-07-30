@@ -1,0 +1,21 @@
+{
+  "layout_type": "process",
+  "top_label": "提示词避坑",
+  "title_line_1": "提示词越写越长",
+  "title_line_2": "封面反而更乱？",
+  "highlight_phrase": "五块信息结构",
+  "evidence_a": "主体",
+  "evidence_b": "构图",
+  "evidence_c": "限制",
+  "result_label": "结果",
+  "result_value": "稳定出图",
+  "bottom_summary": "先补信息，再加形容词",
+  "background_objects": [
+    "纸条",
+    "检查清单",
+    "手绘箭头"
+  ],
+  "accent_color": "orange",
+  "brand_mode": "none",
+  "brand_name": ""
+}
